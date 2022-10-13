@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YVD7
+- 👋 Hi, I’m Yash
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Full Stack Data Sciece
 - 💞️ I’m looking to collaborate on ML projects
