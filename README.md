@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash
-- 👀 I’m interested in Data Science and AI
+- 👀 I’m interested in Data Science and AI/ML, Coding, Exploring New Techologies (always)
 - 🌱 I’m currently learning Full Stack Data Sciece
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me yashdawande7@gmail.com
