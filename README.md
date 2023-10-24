@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yash
-- 👀 I’m interested in Data Science and AI/ML, Coding, Exploring New Techologies (always)
-- 🌱 I’m currently learning Full Stack Data Sciece
+- 👋 Hi, I’m Yash ( software developer / python developer )
+- 👀 I’m full stack python developer ( AI / ML / Web development)
+- 🌱 I’ve completed Full Stack Data Sciece and python web development with django
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me yashdawande7@gmail.com
 
