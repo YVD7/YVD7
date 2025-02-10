@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yash ( Software Engineer | python | c++ )
+- 👋 Hi, I’m Yash ( Software Engineer | python | c++ | AI/ML )
 - 🌱 I'm aspring quatitative developer.
 - 💞️ Always eager to learn new techonologies every day, open to collaborate with developers on exciting projects and interested to contribute open source projects.
 - 📫 How to reach me yvd007@outlook.com
