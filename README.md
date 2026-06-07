@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yash ( Software Engineer | python | c++ | AI/ML )
-- 🌱 Persuing Quantum Computing with Amazon Basket.
+- 👋 Hi, I’m Yash ( Software Engineer | Data Engineer | python & SQL | AI/ML )
+- 🌱 Having Experience in Software Engineering | Data Engineering.
 - 💞️ Always eager to learn new techonologies every day, open to collaborate with developers on exciting projects and interested to contribute open source projects.
 - 📫 How to reach me yvd007@outlook.com
 
